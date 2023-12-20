@@ -12,5 +12,5 @@ La lista de todos los conjuntos de datos puede obtenerse haciendo `data()`.
 `library("CDR")`  
 `data(package = "CDR")`
 
-# La carpeta  renv 
+
 
