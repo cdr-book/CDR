@@ -3,7 +3,9 @@ Title: Datos del libro Ciencia de Datos con R
 Version: 0.0.3.0
 Authors@R: 
     person("Itzcoatl", "Bueno", , "itzbueno@ucm.es", role = c("aut", "cre"),
-           comment = c(ORCID = "https://orcid.org/0000-0002-5629-1906"))
+           comment = c(ORCID = "https://orcid.org/0000-0002-5629-1906")),
+    person("Ramon A.", "Carrasco", email = "ramoncar@ucm.es", role = "aut",
+           comment = c(ORCID = "https://orcid.org/0000-0001-7365-349X"))
 Description: All the datasets used in the book "Ciencia de Datos con R".
 License: MIT + file LICENSE
 Encoding: UTF-8
