@@ -5,7 +5,4 @@
 #' @format un lpp con 4222 puntos
 #' @author Mehdi Moradi \email{m2.moradi@yahoo.com}
 #' @keywords data
-#' @examples
-#' data(valencia)
-#' plot(valencia)
 NULL

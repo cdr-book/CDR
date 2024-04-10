@@ -9,7 +9,12 @@
 All the datasets used in the book "Ciencia de Datos con R".
 }
 \author{
-\strong{Maintainer}: Itzcoatl Bueno \email{itzbueno@ucm.es} (\href{https://orcid.org/0000-0002-5629-1906}{ORCID})
+\strong{Maintainer}: Itzcóatl Bueno \email{itzbueno@ucm.es} (\href{https://orcid.org/0000-0002-5629-1906}{ORCID})
+
+Authors:
+\itemize{
+  \item Ramón A. Carrasco (\href{https://orcid.org/0000-0001-7365-349X}{ORCID})
+}
 
 }
 \keyword{internal}

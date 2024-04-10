@@ -11,10 +11,10 @@ Un tibble de 113.161 filas y 13 variables:
 \item{codigo_secc}{chr Código de la sección censal}
 \item{censo}{num ...}
 \item{part}{num Porcentaje de participación}
-\item{votantes}{num Número de votantes en la seccion censal}
+\item{votantes}{num Número de votantes en la sección censal}
 \item{blancos}{num Número de votos en blanco}
 \item{nulos}{num Número de votos nulos}
-\item{validos}{num Número de votos validos}
+\item{validos}{num Número de votos válidos}
 \item{partido}{num Partido político más votado en la sección censal}
 \item{votos_partido}{num Votos recibidos por el partido ganador de la sección censal}
 \item{votos_partido_pc}{num ...}

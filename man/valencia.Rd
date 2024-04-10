@@ -10,10 +10,6 @@ un lpp con 4222 puntos
 \description{
 Datos de accidentes de tráfico en la ciudad de valencia durante 2020
 }
-\examples{
-data(valencia)
-plot(valencia)
-}
 \author{
 Mehdi Moradi \email{m2.moradi@yahoo.com}
 }
